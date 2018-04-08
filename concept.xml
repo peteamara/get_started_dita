@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="sample_concept" xml:lang="en-US">
+  <title>What is a personal blog?</title>
+  <shortdesc>What is a blog?</shortdesc>
+  <conbody>
+    <p>A blog is defined as a personal website consisting of short, informal entries.</p>
+    <p>Many blogs can be personal in nature, although a great deal of them typically revolve around
+      a certain topic such as politics, music, sports, and entertainment.</p>
+    <p>A blog usually combines text and images, links to other websites, and media which is related
+      to the general topic. While they're considered to be primarily textual in nature, some blogs
+      have very little textual accompaniment and are dedicated entirely to fields such as art,
+      photography, videos, MP3's, and podcasts.</p>
+  </conbody>
+</concept>
