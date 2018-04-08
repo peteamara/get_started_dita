@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC 
+'-//OASIS//DTD DITA Reference//EN' 
+  'dtd1.2/technicalContent/dtd/reference.dtd'>
+
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+
+<reference id="troubleshooting" xml:lang="en-US">
+  <title>Platform Overview</title>
+  <refbody>
+    <section id="out-of-memory-error">
+      <title>Wix</title>
+      <p>The platform that you’ll be using to create your blog is called Wix. Wix is a web hosting
+        platform that allows you to host your own web address/domain, create web sites using drag
+        and drop tools or from scratch, using customizable templates along with apps, graphics,
+        image galleries, and fonts, and editing certain features of the website including the way in
+        which articles appear on the page, the color of text and buttons, the font size, the
+        placement for links to other articles, and the size of thumbnail images related to
+        posts.</p>
+      <p>The feature of the Wix platform that you’ll be using to perform this operation is the Blog
+        app, which is located on the main page of the Wix site after you log in. This feature allows
+        you to write articles with images or videos for posting now or at a later point in time. It
+        also allows you to edit text in articles, change spacing of text, adjust style of font, and
+        control the text and font size as you would using Microsoft Word or any standard word
+        processing program.</p>
+    </section>
+  </refbody>
+</reference>

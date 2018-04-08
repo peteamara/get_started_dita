@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="changeoil" xml:lang="en-us">
+  <title>Making and Editing Your First Blog Post</title>
+  <shortdesc>Creating a blog post.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
+        months.</p>
+    </context>
+    <steps>
+      <stepsection>To change the oil:</stepsection>
+      <step>
+        <cmd>Once you've purchased your own domain through a hosting provider, you'll be asked to
+          choose a plan that will give you the ability to blog. A basic plan starts at $5 a month,
+          and allows you to connect your domain to the Wix site as well.</cmd>
+      </step>
+      <step>
+        <cmd>Now it's time to write your blog post. After you log into Wix, you'll see a grid of
+          apps under the section <b>My Apps. </b>Click on the one titled <b>Blog</b>.</cmd>
+      </step>
+      <step>
+        <cmd>This will take you to the <b>All Posts</b> section. Once you create some posts, they
+          will be listed on the screen in reverse chronological order.</cmd>
+      </step>
+      <step>
+        <cmd>Next, you want to click on the blue <b>New Post</b> button located at the top right
+          hand corner of your screen.</cmd>
+      </step>
+      <step>
+        <cmd>Your blank template should appear on the screen. You'll see fields where you can enter
+          the title of your post and the body of your article. </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
